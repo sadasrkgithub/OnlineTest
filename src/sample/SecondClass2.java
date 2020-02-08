@@ -11,6 +11,7 @@ public class SecondClass2
 		
 		System.out.println("Merging statement");
 
+		System.out.println("Fifth line");
 	}
 
 }
