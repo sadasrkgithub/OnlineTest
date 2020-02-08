@@ -8,6 +8,8 @@ public class SecondClass2
 		System.out.println("New Line");
 		
 		System.out.println("Second line");
+		
+		System.out.println("Merging statement");
 
 	}
 
