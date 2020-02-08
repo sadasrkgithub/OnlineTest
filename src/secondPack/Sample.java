@@ -12,6 +12,8 @@ public class Sample
 
 		System.out.println("Merge test");
 
+		
+		System.out.println("Final Stmt");
 
 	}
 
