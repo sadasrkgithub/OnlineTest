@@ -7,7 +7,11 @@ public class Sample
 	{
 		System.out.println("Sample class in java");
 		
+
 		System.out.println("Merge test 2nd user");
+
+		System.out.println("Merge test");
+
 
 	}
 
